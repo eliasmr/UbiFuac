@@ -6,6 +6,7 @@ namespace UbiFuac.Models
 {
     class Composicion
     {
+
         private long id;
         private Dieta idDieta;
         private String alimento;
