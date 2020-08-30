@@ -1930,24 +1930,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\carlo\\.nuget\\packages\\": {},
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\Source\\Repos\\UbiFuac\\UbiFuac.Android\\UbiFuac.Android.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\UbiFuac\\UbiFuac.Android\\UbiFuac.Android.csproj",
       "projectName": "UbiFuac.Android",
-      "projectPath": "C:\\Users\\carlo\\Source\\Repos\\UbiFuac\\UbiFuac.Android\\UbiFuac.Android.csproj",
-      "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\Source\\Repos\\UbiFuac\\UbiFuac.Android\\obj\\",
+      "projectPath": "C:\\Users\\admin\\source\\repos\\UbiFuac\\UbiFuac.Android\\UbiFuac.Android.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\source\\repos\\UbiFuac\\UbiFuac.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1961,8 +1961,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\carlo\\Source\\Repos\\UbiFuac\\UbiFuac\\UbiFuac.csproj": {
-              "projectPath": "C:\\Users\\carlo\\Source\\Repos\\UbiFuac\\UbiFuac\\UbiFuac.csproj"
+            "C:\\Users\\admin\\source\\repos\\UbiFuac\\UbiFuac\\UbiFuac.csproj": {
+              "projectPath": "C:\\Users\\admin\\source\\repos\\UbiFuac\\UbiFuac\\UbiFuac.csproj"
             }
           }
         }

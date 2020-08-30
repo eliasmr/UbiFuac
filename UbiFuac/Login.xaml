@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UbiFuac.login">
+  <ContentView.Content>
+        <Grid BackgroundColor="#404040">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <StackLayout Margin="0,40,0,0" >
+                    <Image Source="mic.png" WidthRequest="60" HeightRequest="60"></Image>
+                    <Label TextColor="#5BF0E8" VerticalOptions="Center" HorizontalOptions="Center" >
+                        <Label.FormattedText>
+                            <FormattedString>
+                                <FormattedString.Spans>
+                                    <Span Text="Start a" FontSize="30" Grid.Row="0" />
+                                </FormattedString.Spans>
+                            </FormattedString>
+                        </Label.FormattedText>
+                    </Label>
+                    <Label TextColor="#5BF0E8" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,-20,0,0">
+                        <Label.FormattedText>
+                            <FormattedString>
+                                <FormattedString.Spans>
+                                    <Span Text="Conversation!" FontSize="30" Grid.Row="0" />
+                                </FormattedString.Spans>
+                            </FormattedString>
+                        </Label.FormattedText>
+                    </Label>
+                    <Label Text="Dont't let anything stop you!" TextColor="White" FontSize="20" FontAttributes="Bold" 
+                           HorizontalTextAlignment="Center" FontFamily="Comic Sans"
+                           Margin="0,0,0,0"></Label>
+                </StackLayout>
+            </Grid>
+            <Grid Grid.Row="1">
+                <StackLayout Margin="0,20,0,0" >
+                    <Frame BorderColor="White"  BackgroundColor="#404040" CornerRadius="7" Margin="30,0,30,00" WidthRequest="15" HeightRequest="15">
+                        <Label Text="E-mail" TextColor="White" FontSize="13" FontFamily="Comic Sans"></Label>
+                    </Frame>
+                </StackLayout>
+            </Grid>
+            <Grid Grid.Row="2">
+                <StackLayout Margin="0,15,0,0" >
+                    <Frame BorderColor="White"  BackgroundColor="#404040" CornerRadius="7" Margin="30,0,30,00" WidthRequest="15" HeightRequest="15">
+                        <Label Text="Password" TextColor="White" FontSize="13" FontFamily="Comic Sans"></Label>
+                    </Frame>
+                </StackLayout>
+            </Grid>
+            <Grid Grid.Row="3">
+                <StackLayout Margin="90,30,90,00" >
+                    <Button Text="Create Account" HeightRequest="40" BackgroundColor="#69F7F0" 
+                            CornerRadius="20" TextColor="Black"/>
+                </StackLayout>
+            </Grid>
+            <Grid Grid.Row="4">
+                <StackLayout  Margin="0,20,0,0" >
+                    <Label Text="Sign up with!" TextColor="White" FontSize="20" FontAttributes="Bold" 
+                           HorizontalTextAlignment="Center"> </Label>
+                </StackLayout>
+            </Grid>
+            <Grid Grid.Row="5">
+                <StackLayout Margin="155,10,160,0" >
+                    <BoxView BackgroundColor="White" WidthRequest="40" HeightRequest="40" CornerRadius="60"/>
+                </StackLayout>
+                <StackLayout Margin="0,10,0,0" >
+                    <Image Source="facebook.jpg" WidthRequest="40" HeightRequest="40" ></Image>
+                </StackLayout>
+            </Grid>
+            <Grid Grid.Row="6">
+                <StackLayout  Margin="0,40,0,0" >
+                    <Label Text="Already have an account? Sing in" TextColor="White" FontSize="20" FontAttributes="Bold" 
+                           HorizontalTextAlignment="Center" FontFamily="Comic Sans"></Label>
+                </StackLayout>
+            </Grid>
+        </Grid>
+    </ContentView.Content>
+</ContentView>
