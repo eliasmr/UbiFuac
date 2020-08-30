@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V+ZO19MXekmh3ppAXK0el7xdFv/K7aM4dUCu9FCw1NPcARVUN5WVSb4k1R2nmWtpPC4g/zI3GHubYQwwKkHoSw==",
+  "dgSpecHash": "SNtPiOxxNQKqWdNwCbrzVRXBXjNx7fthU4lOKgn2pdT1yuBIqAFKeWR0kMhKqVzBCvwB2WUExjhkImZ6FPymog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\UbiFuac\\UbiFuac.Android\\UbiFuac.Android.csproj",
+  "projectFilePath": "C:\\Users\\carlo\\Source\\Repos\\UbiFuac\\UbiFuac.Android\\UbiFuac.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
