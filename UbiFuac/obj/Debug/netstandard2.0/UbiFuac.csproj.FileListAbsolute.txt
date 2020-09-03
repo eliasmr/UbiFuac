@@ -12,8 +12,10 @@ C:\Users\admin\source\repos\UbiFuac\UbiFuac\obj\Debug\netstandard2.0\Views\Login
 C:\Users\admin\source\repos\UbiFuac\UbiFuac\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
 C:\Users\admin\source\repos\UbiFuac\UbiFuac\obj\Debug\netstandard2.0\UbiFuac.AssemblyInfoInputs.cache
 C:\Users\admin\source\repos\UbiFuac\UbiFuac\obj\Debug\netstandard2.0\UbiFuac.AssemblyInfo.cs
-C:\Users\admin\source\repos\UbiFuac\UbiFuac\obj\Debug\netstandard2.0\UbiFuac.csproj.CoreCompileInputs.cache
-C:\Users\admin\source\repos\UbiFuac\UbiFuac\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\admin\source\repos\UbiFuac\UbiFuac\obj\Debug\netstandard2.0\UbiFuac.dll
 C:\Users\admin\source\repos\UbiFuac\UbiFuac\obj\Debug\netstandard2.0\ref\UbiFuac.dll
 C:\Users\admin\source\repos\UbiFuac\UbiFuac\obj\Debug\netstandard2.0\UbiFuac.pdb
+C:\Users\admin\source\repos\UbiFuac\UbiFuac\obj\Debug\netstandard2.0\Formulario.xaml.g.cs
+C:\Users\admin\source\repos\UbiFuac\UbiFuac\obj\Debug\netstandard2.0\home.xaml.g.cs
+C:\Users\admin\source\repos\UbiFuac\UbiFuac\obj\Debug\netstandard2.0\Listen.xaml.g.cs
+C:\Users\admin\source\repos\UbiFuac\UbiFuac\obj\Debug\netstandard2.0\login.xaml.g.cs
